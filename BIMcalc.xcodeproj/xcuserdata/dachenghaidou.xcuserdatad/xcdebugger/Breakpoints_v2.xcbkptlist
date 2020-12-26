@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "8753D532-4B00-4C90-9181-6A5A04FDCC08"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9E1B751D-46F2-4035-B881-7DF855B28D0A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BIMcalc/AppDelegate.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "9E1B751D-46F2-4035-B881-7DF855B28D0A - 7f025ff84b48716e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BIMcalc.AppDelegate.__deallocating_deinit"
+                  moduleName = "BIMcalc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dachenghaidou/swift-project/BIMcalc/BIMcalc/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "9E1B751D-46F2-4035-B881-7DF855B28D0A - 15811270815309c2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BIMcalc.AppDelegate.__allocating_init() -&gt; BIMcalc.AppDelegate"
+                  moduleName = "BIMcalc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dachenghaidou/swift-project/BIMcalc/BIMcalc/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "9E1B751D-46F2-4035-B881-7DF855B28D0A - 591c0ba8d53f957a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "BIMcalc.AppDelegate.init() -&gt; BIMcalc.AppDelegate"
+                  moduleName = "BIMcalc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dachenghaidou/swift-project/BIMcalc/BIMcalc/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  uuid = "9E1B751D-46F2-4035-B881-7DF855B28D0A - e8d5383082dd40fa"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "BIMcalc"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/dachenghaidou/swift-project/BIMcalc/BIMcalc/AppDelegate.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
